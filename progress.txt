@@ -1,0 +1,18 @@
+20250815
+1. outlook.com create a new project email - xnzerb00001@outlook.com
+2. github.com create a new project acount - identical to outlook.com
+3. github.com create a new repository with LICENSE, README.md & .gitignore
+4. git clone repository to local harddisk
+5. Update LICENSE - adding name & data
+6. Update .gitignore - make it node.js & OS specific
+7. Update README.md
+8. Add information files about project
+9. Local a reference website as preliminary goal - https://www.gym-town.com
+10. Study target website to outline main flow
+11. Create a simple index.html - header(main icon/menu icon[pulldow menu - home/our trainers/Our services/Prise plan/About us/Location/Contact us]), Footer(company name/year), body (picture, 2 buttons[login, register])
+12. Prelimiary frontend, about.html, contact.html, index.html, location.html, login.html, price.html, register.html, services.html, trainers.html
+13. Ask ChatGPT to generate main flowchart. The prompt is this. Please generate a simple frontend webapp with the common elements - header(main icon/menu icon[pulldown menu - home/our trainers/Our services/Price plan/About us/Location/Contact us]), Footer(company name/year). For the body of pages, please have a picture. The main icon is artistic font of "Gym paradise". The frontpage should have the body with a gym picture and 2 buttons[login, register]. All the pages should be interlink thru the pulldown menu. For our trainers, please emulate 3 trainers with appropriate content. For our services, they are Kick-Boxing, Weight Training and Stretch Recovery. For About us, please fill in for us, you may refer to www.gym-town.com, For location page, you can create a map picture with a fake address. For contact us, it should be a form with a submit button that trigger email. Please provide all the html files in a zip.
+14. Add pictures to html pages
+
+
+
